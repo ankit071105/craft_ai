@@ -1,4 +1,4 @@
-# Hackathon: Hyper-Local E‑Commerce (Full Stack)
+
 
 - **Backend:** FastAPI + SQLite + SQLAlchemy + scikit-learn (TF‑IDF)
 - **Frontend:** React + Vite + Tailwind + React Router + Axios + Leaflet
